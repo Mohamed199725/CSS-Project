@@ -1,0 +1,103 @@
+.heading{
+background-color: darkred;
+font-size: 35px;
+font-family: sans-serif;
+text-align: center;
+text-decoration: solid;
+font-weight: 100;
+margin-bottom: 10%;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color:burlywood;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+
+.navbar ul{
+    list-style: none;
+    background-color: black;
+    padding: 18px 16px;
+    margin-bottom: 10%;
+    word-spacing: 10px;
+
+ }
+
+ .navbar li{
+    display: inline-block;
+ }
+
+ .navbar a{
+    text-decoration: underline;
+    color: violet;
+    display: inline;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 18px 16px;
+ }
+
+ .navbar a:hover{
+    background-color: burlywood;
+ }
+
+ .headings{
+    color: darkblue;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 15px 16px;
+    margin-top: 5%;
+ }
+
+ .content{
+    text-align: center;
+    word-spacing: 8px;
+    font-size: 19px;
+    font-weight:bolder;
+    border-radius: 50% 50 50% 50%;
+    background-color: red;
+    padding: 16px 25px;
+ }
+
+ .footer-content1{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    display: block;
+    text-align: left;
+    text-decoration: solid;
+    margin-top: 5%;
+    margin-bottom: 5%;
+ }
+
+ .footer-content2 h3{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: left;
+ }
+
+ .footer-content2 ul{
+    list-style: square;
+    padding: 18px 25px;
+    font-size: 25px;
+    word-spacing: 10px;
+ }
+
+ .footer-content3 {
+    margin-top: 5%;
+ }
+
+
+ .bottom-bar p{
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20%;
+    border-radius: 30px;
+ }
